@@ -1,0 +1,18 @@
+{
+    "name": "simplydi/simplytemplate",
+    "description": "Very simple native PHP templating",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimplyDi\\SimplyTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bharat Kumar",
+            "email": "naman97034@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
